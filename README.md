@@ -85,6 +85,16 @@ Four practical guides for the ceremonies and workflows that make a DDaT programm
 
 ---
 
+## About the author
+
+Kubair Shirazee is an enterprise transformation leader with 20 years of experience across public and private sector programmes. His work focuses on the decision systems -- the governance, accountability, and collaboration patterns -- that determine whether a transformation programme delivers or stalls.
+
+This toolkit came out of a DDaT delivery lead role at a London borough. The guides were written during the programme, not after it.
+
+More at [kubairshirazee.com](https://kubairshirazee.com).
+
+---
+
 ## Licence
 
 Licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Free to use and adapt. Attribution appreciated -- link back to this repo or to [kubairshirazee.com](https://kubairshirazee.com).
