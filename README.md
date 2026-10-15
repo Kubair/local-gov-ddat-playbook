@@ -10,7 +10,7 @@
 
 This toolkit gives DDaT delivery leads something they rarely get: a coherent set of working materials covering both the digital infrastructure of the programme (how to structure your MS Teams environment) and the human infrastructure (how ceremonies actually run when they work).
 
-It was developed and refined across a live council DDaT programme, sprint by sprint -- used continuously from sprint 2 through sprint 7 across a multi-directorate transformation programme, not designed in advance and documented after. Everything here reflects what worked under real conditions, adapted from what did not.
+It was developed and refined across a live council DDaT programme, sprint by sprint -- used continuously from sprint 2 through sprint 10 across a multi-directorate transformation programme, not designed in advance and documented after. Everything here reflects what worked under real conditions, adapted from what did not.
 
 It is designed for multi-lane DDaT programmes in local councils -- use case pipelines, platform and transformation lanes operating in parallel, with the coordination challenges that come with them.
 
