@@ -67,11 +67,11 @@ Four practical guides for the ceremonies and workflows that make a DDaT programm
 
 | Guide | When to use it |
 |---|---|
-| [Stand-up guide](ways-of-working/01-standup-guide.md) | Every sprint. Five formats to match where the sprint is. |
-| [Story-led reviews](ways-of-working/02-story-led-reviews.md) | End of sprint. Show done work, get real feedback. |
+| [Sprint planning guide](ways-of-working/01-sprint-planning-guide.md) | Start of sprint. Six-step sequence from goal to sprint board. |
+| [Stand-up guide](ways-of-working/02-standup-guide.md) | Every sprint. Five formats to match where the sprint is. |
 | [Technical refinement gate](ways-of-working/03-technical-refinement-gate.md) | Before any SA conversation is requested. |
-| [Progress review guest guide](ways-of-working/04-progress-review-guest-guide.md) | When directorate leads or stakeholders attend a review. |
-| [Sprint planning guide](ways-of-working/05-sprint-planning-guide.md) | Start of sprint. Six-step sequence from goal to sprint board. |
+| [Story-led reviews](ways-of-working/04-story-led-reviews.md) | End of sprint. Show done work, get real feedback. |
+| [Progress review guest guide](ways-of-working/05-progress-review-guest-guide.md) | When directorate leads or stakeholders attend a review. |
 | [Retrospective guide](ways-of-working/06-retrospective-guide.md) | End of sprint. Five-part format with carry-forward check. |
 
 ---
