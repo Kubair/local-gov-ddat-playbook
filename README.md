@@ -10,7 +10,7 @@
 
 This toolkit gives DDaT delivery leads something they rarely get: a coherent set of working materials covering both the digital infrastructure of the programme (how to structure your MS Teams environment) and the human infrastructure (how ceremonies actually run when they work).
 
-It was developed and refined across a live council DDaT programme, sprint by sprint -- not designed in advance and documented after. Everything here reflects what worked under real conditions, adapted from what did not.
+It was developed and refined across a live council DDaT programme, sprint by sprint -- used continuously from sprint 2 through sprint 7 across a multi-directorate transformation programme, not designed in advance and documented after. Everything here reflects what worked under real conditions, adapted from what did not.
 
 It is designed for multi-lane DDaT programmes in local councils -- use case pipelines, platform and transformation lanes operating in parallel, with the coordination challenges that come with them.
 
@@ -51,8 +51,6 @@ The stand-up runs every day. The refinement gate fires when a BA is ready to req
 
 The [MS Teams structure](teams-structure.md) gives all four guides a named home -- each one is pinned in the channel where it is used, not stored somewhere people have to look for it.
 
-The [MS Teams structure](teams-structure.md) gives all four guides a named home -- each one is pinned in the channel where it is used, not stored somewhere people have to look for.
-
 ---
 
 ## What is inside
@@ -83,7 +81,7 @@ Four practical guides for the ceremonies and workflows that make a DDaT programm
 
 ## Licence
 
-Free to use and adapt. Attribution appreciated -- link back to this repo or to [kubairshirazee.com](https://kubairshirazee.com).
+Licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Free to use and adapt. Attribution appreciated -- link back to this repo or to [kubairshirazee.com](https://kubairshirazee.com).
 
 ---
 

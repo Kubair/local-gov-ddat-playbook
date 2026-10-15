@@ -201,6 +201,36 @@ Corporate Comms Lead, Change Manager, Service Comms Lead (TBC), L&D Lead (TBC), 
 | `HR coordination` | Role impact and job design downstream of delivery. |
 | `Release comms log` | Shared record of what has been communicated, when, and to whom. |
 
+---
+
+### Team: Comms & Change Enablement - welcome message
+
+> Welcome to Comms & Change Enablement
+>
+> This Team exists because adoption is not a go-live problem. It is a delivery problem, and it belongs inside the delivery horizon -- not waiting at the end of it.
+>
+> The DDaT programme is producing change. Real change: services redesigned, workflows replaced, roles shifted. None of that lands without communication, without people being prepared for it, and without someone thinking about the workforce implications before they become complaints. That is what this Team is for.
+>
+> **How this space is set up**
+>
+> - **General** -- Owned by DDaT Delivery Lead until functional leads are confirmed and onboarded. Start here.
+> - **Corporate comms** -- The programme narrative. Council-wide story about what this transformation means and why it is happening.
+> - **Service comms** -- Per-service release communications. Drafted here, agreed with the service, and sent.
+> - **Change management** -- Use case change readiness: impact assessments, change plans, readiness gates before a use case goes live.
+> - **Learning and development** -- Training readiness per release. If a service is changing, someone needs to know how to use what replaces it.
+> - **HR coordination** -- Role impact and job design. The downstream effects of delivery that HR needs to plan for.
+> - **Release comms log** -- Shared record of what has been communicated, when, and to whom. Stops the same message going twice, and means nothing gets missed.
+>
+> **Why this has to start now**
+>
+> Most comms and change functions get stood up when a product is nearly ready. By then, the decisions have been made, the service design is fixed, and comms is in the position of packaging something it had no input into. That is not how this programme runs.
+>
+> If you have landed here and your function's channels are not fully staffed yet -- that is expected. Use General, flag what you need, and we will build the rest as the team arrives.
+>
+> *DDaT Delivery Lead*
+
+---
+
 > This Team makes the adoption gap structurally visible. Creating it at programme start is the argument that change management belongs inside the delivery horizon -- not after it.
 
 ---
