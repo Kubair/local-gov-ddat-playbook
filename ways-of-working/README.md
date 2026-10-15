@@ -26,6 +26,8 @@ The [hub README](../README.md) has a flow diagram showing how these four guides 
 | [02 -- Story-led reviews](02-story-led-reviews.md) | Seven-step show-and-ask format | `Sprint-events` channel |
 | [03 -- Technical refinement gate](03-technical-refinement-gate.md) | Four-step BA-to-SA workflow | `Refinement Corner` channel |
 | [04 -- Progress review guest guide](04-progress-review-guest-guide.md) | Session brief for non-team attendees | `Sprint-events` channel |
+| [05 -- Sprint planning guide](05-sprint-planning-guide.md) | Six-step planning sequence | `Sprint-events` channel |
+| [06 -- Retrospective guide](06-retrospective-guide.md) | Five-part retro with carry-forward check | `Sprint-events` channel |
 
 ---
 

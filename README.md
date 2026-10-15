@@ -32,22 +32,26 @@ The four Ways of Working guides are not independent documents. They form a syste
 
 ```mermaid
 flowchart LR
-    A([Sprint start]) --> B[Stand-up\nguide]
+    P[Sprint planning\nguide] --> A([Sprint start])
+    A --> B[Stand-up\nguide]
     B -->|needs SA input| C[Technical\nrefinement gate]
     C --> B
     B --> D[Story-led\nreview]
-    D --> F([Next sprint])
     G[Progress review\nguest guide] -.->|when guests\nare present| D
+    D --> R[Retrospective\nguide]
+    R --> F([Next sprint])
 
+    style P fill:#e8f4f8,stroke:#4a9cc4
     style A fill:#f0f0f0,stroke:#999
     style F fill:#f0f0f0,stroke:#999
     style B fill:#e8f4f8,stroke:#4a9cc4
     style C fill:#e8f4f8,stroke:#4a9cc4
     style D fill:#e8f4f8,stroke:#4a9cc4
     style G fill:#e8f4f8,stroke:#4a9cc4
+    style R fill:#e8f4f8,stroke:#4a9cc4
 ```
 
-The stand-up runs every day. The refinement gate fires when a BA is ready to request SA input -- it is the structured workflow that prevents SA time being wasted on under-prepared conversations. The story-led review closes the sprint. The guest guide shapes how that review runs when directorate leads or stakeholders are in the room.
+Sprint planning opens the sprint -- goal agreed first, candidates triaged, board set. The stand-up runs every day. The refinement gate fires when a BA is ready to request SA input. The story-led review closes the sprint. The guest guide shapes how that review runs when directorate leads or stakeholders are in the room. The retrospective closes the cycle and feeds directly into the next planning meeting through its improvement stories.
 
 The [MS Teams structure](teams-structure.md) gives all four guides a named home -- each one is pinned in the channel where it is used, not stored somewhere people have to look for it.
 
@@ -67,6 +71,8 @@ Four practical guides for the ceremonies and workflows that make a DDaT programm
 | [Story-led reviews](ways-of-working/02-story-led-reviews.md) | End of sprint. Show done work, get real feedback. |
 | [Technical refinement gate](ways-of-working/03-technical-refinement-gate.md) | Before any SA conversation is requested. |
 | [Progress review guest guide](ways-of-working/04-progress-review-guest-guide.md) | When directorate leads or stakeholders attend a review. |
+| [Sprint planning guide](ways-of-working/05-sprint-planning-guide.md) | Start of sprint. Six-step sequence from goal to sprint board. |
+| [Retrospective guide](ways-of-working/06-retrospective-guide.md) | End of sprint. Five-part format with carry-forward check. |
 
 ---
 
